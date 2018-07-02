@@ -92,6 +92,12 @@
     <Content Include="Global.asax" />
     <Content Include="src\app\app.component.css" />
     <Content Include="src\app\app.component.html" />
+    <Content Include="src\app\ui\footer\footer.component.css" />
+    <Content Include="src\app\ui\footer\footer.component.html" />
+    <Content Include="src\app\ui\header\header.component.css" />
+    <Content Include="src\app\ui\header\header.component.html" />
+    <Content Include="src\app\ui\layout\layout.component.css" />
+    <Content Include="src\app\ui\layout\layout.component.html" />
     <Content Include="src\favicon.ico" />
     <Content Include="src\index.html" />
     <Content Include="src\karma.conf.js" />
@@ -133,6 +139,14 @@
     <TypeScriptCompile Include="src\app\app.component.spec.ts" />
     <TypeScriptCompile Include="src\app\app.component.ts" />
     <TypeScriptCompile Include="src\app\app.module.ts" />
+    <TypeScriptCompile Include="src\app\ui\footer\footer.component.spec.ts" />
+    <TypeScriptCompile Include="src\app\ui\footer\footer.component.ts" />
+    <TypeScriptCompile Include="src\app\ui\header\header.component.spec.ts" />
+    <TypeScriptCompile Include="src\app\ui\header\header.component.ts" />
+    <TypeScriptCompile Include="src\app\ui\layout\layout.component.spec.ts" />
+    <TypeScriptCompile Include="src\app\ui\layout\layout.component.ts" />
+    <TypeScriptCompile Include="src\app\ui\ui.module.spec.ts" />
+    <TypeScriptCompile Include="src\app\ui\ui.module.ts" />
     <TypeScriptCompile Include="src\environments\environment.prod.ts" />
     <TypeScriptCompile Include="src\environments\environment.ts" />
     <TypeScriptCompile Include="src\main.ts" />
